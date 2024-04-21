@@ -1,21 +1,18 @@
-### Hi there 👋
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucashensil&show_icons=true&theme=dracula&locale=pt-br&hide=prs,issues&rank_icon=github&count_private=true))](https://github.com/lucashensil/github-readme-stats) 
+# Lucas H. Silva
 
-https://lucashensil-readme.vercel.app/
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashensil&hide=SCSS&theme=dracula&locale=pt-br&hide_progress=true&card_width=470)](https://github.com/lucashensil/github-readme-stats)
+[![Linkedin Badge](https://img.shields.io/badge/-LucasHenSil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-silva-84131b2b4//)](https://www.linkedin.com/in/lucas-henrique-silva-84131b2b4/) [![Portfolio Badge](https://img.shields.io/badge/-lucahensil.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://lucashensil.github.io/portifolio/)](https://lucashensil.github.io/portifolio/) [![Gmail Badge](https://img.shields.io/badge/lucashensil000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashensil000@gmail.com)](mailto:lucashensil000@gmail.com) 
+<p align="left"> 
+Olá! Eu sou Lucas H. Silva, um estudante de Engenharia de Software apaixonado por resolver problemas complexos e em constante busca por desafios estimulantes para o meu crescimento profissional. Meu foco principal está no desenvolvimento do <strong>Backend</strong> e estou sempre empenhado em aprimorar minhas habilidades nesta área.</p>
 
-<!--
-**lucashensil/lucashensil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
